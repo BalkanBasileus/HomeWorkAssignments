@@ -1,5 +1,6 @@
 # HomeWorkAssignments
-Various HW Assignments written in C++ thoughout CS undergrad.
+HW Assignments written in C++ thoughout CS undergrad. Classes include first and second year
+courses in C++ and Data Structures.
 
 **Assignment11**
 
