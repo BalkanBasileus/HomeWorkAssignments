@@ -6,7 +6,7 @@ courses in C++ and Data Structures.
 
 Breath first search across a two dimensional array read from a file.
 
-**Assignmetn2**
+**Assignmet2**
 
 Terminal ATM bank account simulator using a struct.
 Implements binary search, file read, error checking,
